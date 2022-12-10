@@ -4,6 +4,10 @@ A simple script to help a friend archive the audio of a YouTube channel.
 
 ## Usage
 
+### Prerequisites
+ - 7zip to extract the archive.
+ - You do not need python / libraries / anything else.
+
 ### Steps
 
 1. Download the `youtubeDL.7z` file (under releases).
